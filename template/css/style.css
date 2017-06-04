@@ -291,6 +291,10 @@ pre.language-html {
     background-color: rgba(255, 255, 255, 0.15);
 }
 
+.input-group {
+    margin-bottom: 10px;
+}
+
 pre.language-api .str {
     color: #ffffff;
 }
@@ -308,6 +312,7 @@ pre code {
     font-weight: 400;
     word-wrap: normal;
     white-space: pre;
+    color: #c71447;
 }
 
 pre code.sample-request-response-json {
